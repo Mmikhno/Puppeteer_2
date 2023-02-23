@@ -1,0 +1,21 @@
+{
+  "name": "7.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cucumber": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "jest-puppeteer": "^7.0.0",
+    "puppeteer": "^19.6.3"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "cucumber": "^6.0.7"
+  }
+}
